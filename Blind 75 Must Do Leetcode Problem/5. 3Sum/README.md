@@ -70,9 +70,12 @@ Now, we will find the this required number in hashMap.
 
 </b>
 Return answer vector.
+
+
+
+
 ```cpp
-// OJ: https://leetcode.com/problems/3sum/
-// Author: github.com/lzl124631x
+
 // Time: O(N^2)
 // Space: O(1)
 class Solution {
